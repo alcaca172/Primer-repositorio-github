@@ -1,0 +1,10 @@
+body{
+
+   background-image: url("../img/panda.jpg");
+   background-size:cover;
+   background-repeat: no-repeat;
+}
+
+div{
+    background-color: aliceblue;
+}
