@@ -1,10 +1,23 @@
 body{
-
+    
    background-image: url("../img/panda.jpg");
    background-size:cover;
-   background-repeat: repeat;
+   background-repeat:repeat ;
+   background-attachment: fixed;
+   font-weight: bold;
+  
+}
+h1{
+    font-size: 30px;
+    color: aliceblue;
+}
+p{
+    font-size: 30px;
+    color: aliceblue;
 }
 
-div{
-    background-color: aliceblue;
+.contenedor{
+    background-color: rgb(72, 200, 220);
+    border: 10px solid black;
+    
 }
