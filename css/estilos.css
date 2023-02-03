@@ -7,17 +7,64 @@ body{
    font-weight: bold;
   
 }
-h1{
-    font-size: 30px;
-    color: aliceblue;
+
+.texto{
+    margin-left: 245px;
+    margin-top: 18px;
+    margin-bottom: 20px;
 }
-p{
-    font-size: 30px;
-    color: aliceblue;
+
+.box1{
+    background-color: transparent;
+    width: 1060px;
+    height: 250px;
+    margin: 5px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.box2{
+    background-color: transparent;
+    width: 350px;
+    height: 250px;
+    margin: 5px;
+    float: left;
+
+}
+
+.box3{
+    background-color: transparent;
+    width: 100%;
+    height: 100px;
+    margin: 50px;
+    float: left;
+}
+
+
+.box4{
+    background-color: transparent;
+   width: 70px;
+   margin: 15px;
+    float: left;
+    
+}
+
+.box5{
+    background-color: transparent;
+    width: 350px;
+    margin-left: 150px;
+    float: left;
+}
+
+.music{
+    background-color: transparent;
 }
 
 .contenedor{
+   
     background-color: rgb(72, 200, 220);
     border: 10px solid black;
+    
     
 }
